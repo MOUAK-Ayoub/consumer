@@ -1,0 +1,7 @@
+aws:
+  region: us-east-1
+  sqs:
+    queuename: queue
+    consumercount: 1
+    batchsize: 1
+    runtimeminutes: 1
